@@ -1,0 +1,38 @@
+body{
+    background: url(bg.jpg);
+    background-size: cover;
+}
+#heading{
+    /* width: 30vw; */
+    margin-left: 25vw;
+}
+#menu{
+    position: absolute;
+    margin-left: 9vw;
+}
+#menu a{
+    text-align: center;
+    padding: 10px 25px;
+    outline: none;
+    text-decoration: none;
+    color: skyblue;
+    border: 2px solid;
+    margin-right: 5vw;
+    font-size: 20px;
+}
+#menu a:hover{
+    color: black;
+    font-weight: bolder;
+    font-size: 22px;
+    background-color: white;
+    transition: 0.5s;
+}
+#para{
+    max-width: 70vw;
+    margin: auto;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.11);
+    box-shadow: 2px 4px 7px black;
+    padding: 5px 15px;
+    color: white;
+}

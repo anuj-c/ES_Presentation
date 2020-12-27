@@ -5,7 +5,6 @@ body {
 }
 
 #heading {
-  /* width: 30vw; */
   display: block;
   margin: auto;
   opacity: 0;
@@ -16,26 +15,7 @@ body {
   text-align: center;
 
   opacity: 0;
-  /* transition: all 1s ease-in-out; */
 }
-/* #menu a {
-  text-align: center;
-  padding: 10px 25px;
-  outline: none;
-  text-decoration: none;
-  color: skyblue;
-  border: 2px solid;
-  margin-right: 5vw;
-  font-size: 20px;
-}
-#menu a:hover {
-  color: black;
-  /* font-weight: bolder; */
-/* font-size: 22px; */
-/* background-color: white; */
-/* transition: 0.5s; */
-/* } */
-
 #para {
   max-width: 70vw;
   margin: auto;
@@ -58,7 +38,6 @@ body {
 
   text-align: center;
   padding: 10px 25px;
-  /* outline: none; */
   text-decoration: none;
   color: skyblue;
   border: 2px solid;
